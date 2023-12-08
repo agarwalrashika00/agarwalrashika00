@@ -5,8 +5,8 @@
 A software developer at Snackmagic - Vinsol, passionate about learning tech stuffs!
   
 - 🔭 Exploring!
-- 🌱 Learning agile development using ruby on rails framework
-- 👯 Looking to collaborate on web dev and blockchain projects
+- 🌱 Implementing agile development using Ruby on Rails framework
+- 👯 Looking to collaborate on Web dev and Blockchain projects
 - 💬 Ask me about anything ;)
 - 📫 Reach me @ [agarwalrashika00@gmail.com](# "Gmail")
 
